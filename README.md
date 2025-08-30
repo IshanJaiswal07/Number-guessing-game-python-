@@ -23,3 +23,12 @@ The game continues until you guess the correct number and shows the **total atte
 1. Clone the repository:
    ```bash
    git clone https://github.com/IshanJaiswal07/Number-guessing-game-python-.git
+
+## Example
+
+Guess the number: 50
+Higher number please
+Guess the number: 75
+Lower number please
+Guess the number: 62
+You have guessed the number 62 correctly in 3 attempts
